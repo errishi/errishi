@@ -40,12 +40,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-<img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=errishi&show_icons=true&theme=radical"/>
-<img alt="Top Language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errishi&layout=compact&theme=radical"/>
+<img alt="My Stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=errishi&show_icons=true&theme=radical"/>
+<img alt="Top Language" align="left" height="210em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errishi&layout=compact&theme=radical"/>  
+
 
 </a>
 
+
 <br>
+
 
 ### 🛠️ My Projects
 <a href="#" target="_blank"> <img alt="artistify" src="https://github.com/errishi/usabilityhub/blob/main/Project_image/logo.png" height="68" align="left"> </a>
