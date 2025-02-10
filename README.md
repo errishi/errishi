@@ -13,7 +13,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently **Student**
-- 🌱 &nbsp; I’m currently learning DSA in JAVA, Full Stack web developer; 
+- 🌱 &nbsp; I’m currently learning DSA in JAVA, Full Stack Web Developer; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/errishi)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/er-rishikesh-singh)
@@ -22,12 +22,16 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/errishi/github-readme-icon/blob/main/icons8-html.svg" alt="html" height='42px'/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://github.com/errishi/github-readme-icon/blob/main/icons8-html.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://github.com/errishi/github-readme-icon/blob/main/icons8-css.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://tailwindcss.com/docs/installation/using-vite" target="_blank"> <img src="https://github.com/errishi/github-readme-icon/blob/main/icons8-tailwind-css.svg" align="left" alt="tailwind-css" height='42px'/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://github.com/errishi/github-readme-icon/blob/main/icons8-c-programming.svg" align="left" alt="c-language" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://github.com/errishi/github-readme-icon/blob/main/icons8-visual-studio-code.svg" align="left" alt="vscode" height='42px'/> </a>
+<a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/errishi/github-readme-icon/blob/main/icons8-canva.svg" alt="canva" height='42px'/> </a>
 
 
 <br>
