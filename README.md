@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/errishi)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/er-rishikesh-singh)
-- 📝 &nbsp; Checkout my [resume](https://github.com/errishi/portfolio-profile/blob/main/assets/Resume.pdf)
+- 📝 &nbsp; Checkout my [resume](https://github.com/errishi/portfolio-profile/blob/9a998fefd37331d81132727cbbfbbc8dd01db5e2/assets/Resume.pdf)
 
 <br>
 
