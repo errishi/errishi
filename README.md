@@ -44,8 +44,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-<img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=errishi&show_icons=true&theme=radical"/> 
-<img alt="Top Language" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errishi&layout=compact&theme=radical"/>  
+<img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=errishi&show_icons=true&theme=transparent"/> 
+<img alt="Top Language" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errishi&layout=compact&theme=transparent"/>  
 
 <img align="center" height="210em" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=errishi&" alt="errishi" />
 
@@ -56,7 +56,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=errishi&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=errishi&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 <br>
 
