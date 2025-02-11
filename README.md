@@ -3,6 +3,8 @@
 <a href='https://twitter.com/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
+<div align="center"> <img src="https://github.com/errishi/github-readme-icon/blob/main/github%20Banner.svg"> </div>
+
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
