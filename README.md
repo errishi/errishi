@@ -4,7 +4,7 @@
 <a href='https://instagram.com/'><img align='left' alt="insta" src="https://github.com/errishi/github-readme-icon/blob/main/instagram.svg" height='22px'/></a>
 <a href='https://www.facebook.com/'><img alt="kaggle" src="https://github.com/errishi/github-readme-icon/blob/main/icons8-facebook.svg" height='22px'/></a>
 
-<div align="center"> <img src="https://github.com/errishi/github-readme-icon/blob/main/github%20Banner.svg"> </div>
+<div align="center"> <img src="https://github.com/errishi/github-readme-icon/blob/main/github%20new%20Banner.svg"> </div>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
