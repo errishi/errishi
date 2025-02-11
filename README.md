@@ -32,6 +32,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://github.com/errishi/github-readme-icon/blob/main/icons8-visual-studio-code.svg" align="left" alt="vscode" height='42px'/> </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/errishi/github-readme-icon/blob/main/icons8-canva.svg" alt="canva" height='42px'/> </a>
+<a href="https://powerpoint.cloud.microsoft/en-gb/" target="_blank"> <img align="left" alt="ppt" height ="42px"  src="https://github.com/errishi/github-readme-icon/blob/main/icons8-power-point.svg"> </a>
+
 
 
 <br>
