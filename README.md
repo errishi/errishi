@@ -1,7 +1,8 @@
 ## Hey 👋, I'm Rishikesh Singh!
 <a href='https://www.linkedin.com/in/er-rishikesh-singh'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://instagram.com/'><img align='left' alt="insta" src="https://github.com/errishi/github-readme-icon/blob/main/instagram.svg" height='22px'/></a>
+<a href='https://www.facebook.com/'><img alt="kaggle" src="https://github.com/errishi/github-readme-icon/blob/main/icons8-facebook.svg" height='22px'/></a>
 
 <div align="center"> <img src="https://github.com/errishi/github-readme-icon/blob/main/github%20Banner.svg"> </div>
 
