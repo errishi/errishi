@@ -46,8 +46,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-<img alt="My Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=errishi&show_icons=true&theme=transparent"/> 
-<img alt="Top Language" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errishi&layout=compact&theme=transparent"/>  
+<img alt="My Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=errishi&show_icons=true&theme=transparent"/> 
+<img alt="Top Language" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=errishi&layout=compact&theme=transparent"/>  
 
 <img align="center" height="210em" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=errishi&" alt="errishi" />
 
